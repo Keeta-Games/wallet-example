@@ -1,7 +1,10 @@
 # Minimal Game with Wallet Integration
 A simple clicker game that connects to Keethings Wallet. This example demonstrates the complete wallet integration pattern used throughout Keeta Games.
 
-## 📋 Quick Start Instructions
+## Setup Browser Wallet
+https://chromewebstore.google.com/detail/keythings-wallet/jhngbkboonmpephhenljbljnpffabloh
+
+## Quick Start Instructions
 
 1. Clone this repository `git clone git@github.com:Keeta-Games/wallet-example.git`
 2. Open a terminal in that folder and run one of these commands:
@@ -13,4 +16,5 @@ A simple clicker game that connects to Keethings Wallet. This example demonstrat
 3. Open http://localhost:8000 in your browser
 4. Click "Connect Wallet" to test!
 
-⚠️ **Important: The wallet extension only works on HTTP/HTTPS URLs, not local file:// paths. You must use a web server!**
+⚠️ **Important:** The wallet extension only works on HTTP/HTTPS URLs, not local file:// paths. **You must use a web server!**
+
